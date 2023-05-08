@@ -1,0 +1,18 @@
+1. crear plantilla basica java.
+2. introducir variables
+3. encontrar variables de salida
+4. compilar y corregir errores
+
+
+POO : Alan Kay
+XEROX
+JDK : Java Development Kit (Desarrollar)
+JRE : Java Runtime Environment (Ejecutar)
+
+Contructores : N
+
+ArrayList: foreach, iterator
+
+
+
+
